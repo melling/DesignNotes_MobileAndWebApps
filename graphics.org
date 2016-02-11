@@ -7,10 +7,10 @@
 
 * Inbox
 
-+ http://blog.noctua-software.com/noc_turtle.html
++ [[http://blog.noctua-software.com/noc_turtle.html][Procedural graphics generation in C]]
  - https://news.ycombinator.com/item?id=9704628
 + http://design.tutsplus.com/articles/50-totally-free-lessons-in-graphic-design-theory--psd-2916
 + http://www.designer-daily.com/10-design-books-to-consider-for-graphic-design-students-18213
-+ http://www.jasondavies.com/animated-bezier
++ [[http://www.jasondavies.com/animated-bezier][Animated Bézier Curves]]
  - http://news.ycombinator.com/item?id=8997832 - 	Animated Bézier Curves
 + http://www.khanacademy.org/computer-programming/bezier-thing/5150292972142592
