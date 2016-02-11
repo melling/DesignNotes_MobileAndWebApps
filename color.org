@@ -22,7 +22,7 @@
 + http://news.ycombinator.com/item?id=9711236
 + http://github.com/jariz/vibrant.js - extract colors from an image
 + [[http://scottsievert.github.io/blog/2015/04/23/image-sqrt][Computer color is only kinda broken]]
-+ http://youtu.be/Qj1FK8n7WgY
++ [[http://youtu.be/Qj1FK8n7WgY][Understanding Color]]
  - Saturation- Intensity of the color. Don't use highly saturated colors. @7:10
  - Value - Brightness/Darkness of the color
  - Color Harmonies- 7:30
