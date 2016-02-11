@@ -1,0 +1,3 @@
+Theory: [[file:README.org][Home]] | | [[file:color.org][Color]] | [[file:graphics.org][Graphics]] | | [[file:mobile_design.org][Mobile Design]]  | [[file:ux.org][UX]]
+Applications:  [[file:gimp.org][Gimp]] | [[file:illustrator.org][Illustrator]] | [[file:indesign.org][InDesign]] | [[file:photoshop.org][Photoshop]] | [[file:sketch.org][Sketch]]
+Assets: [[file:artwork.org][Artwork]] | [[file:assets.org][Assets]] |[[file:icons.org][Icons]]

@@ -1,0 +1,18 @@
+#+STARTUP: showall
+#+TITLE: Design
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "design_menu.org"
+Theory: [[file:README.org][Home]] | | [[file:color.org][Color]] | [[file:graphics.org][Graphics]] | | [[file:mobile_design.org][Mobile Design]]  | [[file:ux.org][UX]]
+Applications:  [[file:gimp.org][Gimp]] | [[file:illustrator.org][Illustrator]] | [[file:indesign.org][InDesign]] | [[file:photoshop.org][Photoshop]] | [[file:sketch.org][Sketch]]
+Assets: [[file:artwork.org][Artwork]] | [[file:assets.org][Assets]] |[[file:icons.org][Icons]]
+
+* Inbox
++ http://news.ycombinator.com/item?id=10141874 - ballpoint pens
++ http://medium.com/@wenting_zhang/getting-fluent-at-the-language-of-iconography-3415d03d0a8f
++ http://visualmess.com/index.html
+ - http://news.ycombinator.com/item?id=9281690
++ http://www.reddit.com/r/graphic_design/comments/34q8q2/what_are_your_favourite_design_tutorial
++ http://threads.tradesy.com/designing-by-hand-in-the-digital-age-ad3e1ed90ce9#.u8b9zrxci - See list of tools

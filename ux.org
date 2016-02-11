@@ -1,0 +1,10 @@
+#+STARTUP: showall
+#+TITLE: UX
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "design_menu.org"
+
++ http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
++ http://www.reddit.com/r/web_design/comments/2r72ox/nobody_tells_this_to_beginners

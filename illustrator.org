@@ -1,0 +1,92 @@
+#+STARTUP: showall
+#+TITLE: Illustrator
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "design_menu.org"
+
+* Inbox
++ http://www.hongkiat.com/blog/svg-tools
++ [[http://design.tutsplus.com/tutorials/understanding-adobe-illustrators-grid-system--cms-23623][Understanding Adobe Illustrator's Grid System]]
++ [[http://design.tutsplus.com/tutorials/find-the-pen-tool-difficult-try-this-adobe-illustrator-cc-workaround--cms-24365][Find the Pen Tool Difficult? Try This Adobe Illustrator CC Workaround!]]
++ [[http://design.tutsplus.com/courses/mastering-color-in-adobe-illustrator][Mastering Color in Adobe Illustrator]]
++ http://design.tutsplus.com/tutorials/how-to-create-a-line-art-based-skateboarder-kit-in-adobe-illustrator--cms-23554
++ http://design.tutsplus.com/tutorials/geometric-design-working-with-5-and-10--cms-22875
++ http://design.tutsplus.com/tutorials/how-to-create-the-definitive-designers-essential-pack-in-adobe-illustrator--cms-22931
++ http://tomgermeau.com/2014/02/how-designers-can-create-interactive-prototypes-with-illustrator
++ http://ronnqvi.st/thinking-like-a-bzier-path
++ http://learn.scannerlicker.net/2014/10/01/bezier-ocd-or-why-you-should-know-about-point-placement
++ http://learn.scannerlicker.net/2014/09/16/bezier-curve-quick-tips-two-methods-for-smooth-curves
++ http://news.ycombinator.com/item?id=7731374 - Bezier Curves and Type Design: A Tutorial 
++ http://news.ycombinator.com/item?id=6774934 - Free vector icon
++ http://blog.spoongraphics.co.uk/articles/50-illustrator-tutorials-every-designer-should-see
++ http://www.creativebloq.com/digital-art/illustrator-tutorials-1232697 - 100 amazing Adobe Illustrator tutorials
++ http://www.hongkiat.com/blog/adobe-illustrator-cartoon-tutorials-best-of
++ http://design.tutsplus.com/courses/the-fundamentals-of-adobe-illustrator
++ http://sewheidi.com/where-to-save-brushes-other-custom-libraries-in-illustrator
++ http://design.tutsplus.com/tutorials/how-to-create-a-glamorous-cinema-poster-in-adobe-illustrator--cms-22956
++ http://sewheidi.com/where-to-save-brushes-other-custom-libraries-in-illustrator
+
+
+* Bezier Curves
+
++ http://learn.scannerlicker.net/2014/10/01/bezier-ocd-or-why-you-should-know-about-point-placement
+
+* Setup
+
+* Tutorials
++ http://design.tutsplus.com/tutorials/how-to-create-a-detailed-pencils-illustration-in-adobe-illustrator--cms-23121
+  
+[[http://vectips.com/tutorials/create-a-happy-sun-character/][Create a Happy Sun Character]]
+
+http://cubic-bezier.com/#.17,.67,.83,.67
+
+
+Use Shape Builder tool on tools Palette
+
+Can rotate Gradient tool around
+
+Hold shift while alt-dragging to copy. Keeps objects aligned
+
+Art board tool lets you rename, use presets, etc
+
+Free Transform tool lets you distort image 
+
+Can align or distribute objects from "top" menu
+
+File -> Place (Image). @28:40
+ Can click to add it or drag out a size
+
+Draw concentric circles by drawing from center out
+
+Can search by font type. E.g.  Heavy
+
+File -> Package in CC
+
+http://docs.google.com/document/d/13dtokav_SGSEfOlLEnmBaEY51Td_u1Y0jYAIEFFgcco/mobilebasic
+
+Pen Tool
+  Longer the handle, the softer the curve.
+  Shorter handle is sharper curve.  Think of handles as strength bars.
+  Two handles: Previous curve, next curve.  Showing the past and future.
+  Anchors should be on the “ceilings”.  Inflection point?
+Use transform dialog to align anchors.  Simply copy X or Y value of one.  Aligning by hand is painful.
+
+
+siteanalyitics.compete.com, 
+
+kotaku.com
+
+Nice. Shortcut for step 3 hold shift/cmd + v to paste in front.
+
++ http://design.tutsplus.com/tutorials/create-dimension-with-gradients-in-this-abstract-poster-design--cms-21974
++ http://design.tutsplus.com/tutorials/create-sticker-like-music-icons-in-adobe-illustrator--cms-21725
++ http://design.tutsplus.com/tutorials/how-to-make-a-cute-pig-face-icon-with-simple-gradient-mesh-in-adobe-illustrator--cms-21952
++ http://design.tutsplus.com/tutorials/how-to-design-a-folky-gig-poster-in-adobe-illustrator--cms-21828
++ http://news.ycombinator.com/item?id=8472164
++ http://theneodesign.com/best-illustrator-logo-design-tutorials/
++ http://www.hongkiat.com/blog/pattern-tutorials/
++ http://sewheidi.com/top-10-illustrator-keyboard-shortcuts-tricks/
++ http://sewheidi.com/curved-paths-made-easy-in-illustrator
++ Wes Maggio Wacom 

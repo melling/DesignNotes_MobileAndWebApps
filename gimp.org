@@ -1,0 +1,61 @@
+#+STARTUP: showall
+#+TITLE: GIMP
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+BEGIN_Example
+
+Search: gimp scripting  scheme let defun
+
+2.8: http://www.gimpusers.com/tutorials/gimp-2-8-new-features.html
+
+http://www.smashingmagazine.com/2009/04/03/8-handy-tweaks-to-make-gimp-replace-photoshop/
+
+Batch Processor: http://members.ozemail.com.au/~hodsond/dbp.html
+
+25 videos: http://sixrevisions.com/graphics-design/gimp_video_tutorials/
+10 websites: http://sixrevisions.com/graphics-design/10-websites-to-help-you-master-gimp/
+
+http://www.tutorials-expert.com/tutorials/Gimp/
+
+Simple Image: http://www.gimp.org/tutorials/Basic_Scheme2/
+Tutorials
+http://www.gimpusers.com/
+http://www.pxleyes.com/tutorials/gimp/video/ - Video Tutorials
+http://gimpology.com/
+http://gimp-tutorials.net/
+
+http://www.gimpusers.com/gimp-hotkeys.php
+
+Brushes
+http://www.junauza.com/2010/01/20-more-awesome-gimp-brush-sets.html
+http://graphicalerts.com/1200-high-resolution-gimp-brushes-free-download/
+
+Vecto: http://ryepup.unwashedmeme.com/blog/category/vecto
+http://paste.lisp.org/display/71465
+---
+http://benjisimon.blogspot.com/2009/04/more-script-fu-practice-makes-perfect.html
+
+http://dalelane.co.uk/blog/?p=628
+
+http://www.gimpdome.com/index.php?topic=6294.0;wap2
+
+http://episteme.arstechnica.com/eve/forums/a/tpc/f/96509133/m/104002906931
+http://darcs.informatimago.com/bin/_darcs/current/pic-resize
+
+Gradients
+http://www.tankedup-imaging.com/gradient.html
+http://www.youtube.com/watch?v=yJbYvNTys9s
+http://www.youtube.com/watch?v=wjuCM-UTXaQ&NR=1&feature=fvwp
+
+YouTube
+Layers - http://www.youtube.com/watch?v=RuqPIo4s6BM
+http://www.youtube.com/watch?v=vVy_EDDe_-0&feature=related
+
+Plugins
+http://www.unixmen.com/news-today/690-5-usefull-free-plugins-for-gimp
+
+* Blender
+http://www.packtpub.com/article/modeling-shading-texturing-lighting-compositing-soda-can-blender-2.49-1
+#+END_EXAMPLE

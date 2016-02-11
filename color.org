@@ -1,0 +1,116 @@
+#+STARTUP: showall
+#+TITLE: Color
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "design_menu.org"
+
+* Inbox
++ http://www.handprint.com/HP/WCL/tech13.html
++ http://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359
+
+* Misc
++ sRGB is a certain colorspace.  Gamma curve is 2.2 except at the bottom where it's "linearized out". - Handmade Hero 242 @ 1:09
+ - Puts the resolution where your eye can see it; the darker areas
++ Warm colors against cool colors will stand out.  Like in front of...
++ gray is a neutral color
++ http://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed
+ - shadows, midtones, and highlights.  Adjusting the color Curves and Levels.
++ [[http://news.ycombinator.com/item?id=10473598][Color Psychology: The Complete Guide for Marketers]]
++ http://nautil.us/issue/26/color/how-pantone-colors-your-world
++ http://news.ycombinator.com/item?id=9711236
++ http://github.com/jariz/vibrant.js - extract colors from an image
++ [[http://scottsievert.github.io/blog/2015/04/23/image-sqrt][Computer color is only kinda broken]]
++ http://youtu.be/Qj1FK8n7WgY
+ - Saturation- Intensity of the color. Don't use highly saturated colors. @7:10
+ - Value - Brightness/Darkness of the color
+ - Color Harmonies- 7:30
+   + Discusses 6 common color harmonies 7:58
+ - Monochromatic - one color
+ - 8:57 Analogous - Colors adjacent to each other on color wheel. Seen in nature. 
+ - 10:23 Triadic - Equally distant on wheel.
+ - 11:23 Complementary - Opposing colors on wheel. Very popular scheme. Don't use equally. Use weaker color the most. 
+ - 14:20 Split Complimentary- Take one end of complementary scheme and split it. 
+ - 17:42 Tetratic ( double complimentary ) - Two pairs of opposites. Foregrounds/Backgrounds
+ - 21:14 Summary - also his notes are on Blender Guru
+
+* Science
++ Red has the longest wavelength.  Fastest. Warmest
++ Violet has the shortest.  Slowest
+
+* The Colors - The 12 Hues
++ Primary – Yellow, Red, Blue - Basic colors can't be made from other colors.  All other colors are derived from these 3 colors. 
++ Secondary – Orange, Violet, Green - Created by mixing the primary colors. 
++ Tertiary – Yellow-orange, Red-orange, Red-violet, Blue-violet, Blue-green, Yellow-green - made from a primary and secondary. 
+
+* Johannes Itten’s Color Wheel
+#+attr_html: :width 100px :height 100px
+[[./images/color_wheel.jpeg]]
+
+Color can be broken down into two very broad categories: cool and
+warm. Warm colors such as red, orange, and yellow are active. Cool
+colors such as blue, green, and violet are chill. These are roughly
+split down the middle of the color wheel.
+
+Here’s a key fact to remember about this divide. Warm colors will
+always win a hierarchy battle between the two. Think about it like a
+landscape. The cool blue sky recedes into the background as the
+earthy, warm landscape comes forward.
+
+#+BEGIN_EXAMPLE
+ROYGBIV - Primary colors or hue - rainbow hues
+  Red, Orange, Yellow, Green, Blue, Indigo , Violet
+
+Tint - add white to tint
+Shade - add black to hue
+Saturation - vividness of hue. From dull to pure
+
+Color "Rules"
+- Three colors are all you need in design
+- A good rule of thumb is to begin your design using just black and white. 
+
+My philosophy is to have two colors do the heavy lifting and reserve a third in a sidekick role
+
+#+END_EXAMPLE
+
+* Color
+
++ [[http://blog.trackduck.com/2014/12/08/colour-theory-the-basics-useful-tools-and-further-resources/][Color Theory: The Basics, Useful Tools and Further Resources]]
++ http://robots.thoughtbot.com/Its-only-color
++ http://niki.zone/design/color-theory-for-designers-part-1
++ http://niki.zone/design/color-theory-for-designers-part-2
++ http://www.reddit.com/r/web_design/comments/2y286y/color_contrast_for_better_readability/
++ http://design.tutsplus.com/articles/color-fundamentals-shading--cms-20549
++ http://design.tutsplus.com/tutorials/the-secret-to-realistic-painting-how-to-master-value--cms-23457
++ http://www.smashingmagazine.com/search-results/?q=color+theory&cx=partner-pub-6779860845561969%3A5884617103&cof=FORID%3A10&ie=UTF-8
++ http://www.worqx.com/color/index.htm
+
+
+
+* Adding Black
+
+The first very safe approach to colour is to add and subtract black.
+
+http://sketchytech.blogspot.com/2015/01/first-steps-strategies-for-safe-use-of.html
+
+* Analogous colours
+
+
+* Light and Dark
+
+In fine art, composition dictates in very simplified terms that dark colours appear at the front and light at the back. 
+
+
+* Tools
++ http://theolabrothers.com/
++ http://ios7colors.com/
++ http://color.adobe.com
+ - https://color.adobe.com/explore/newest/?time=all
++ http://github.com/bennyguitar/Colours
++ http://dribbble.com/shots/1121640-iOS-7-Colors-PS-Swatches
++ http://www.sketchappsources.com/free-source/316-ios7-colors.html
+
+* References 
+
++ http://stackoverflow.com/questions/19032940/how-can-i-get-the-ios-7-default-blue-color-programmatically

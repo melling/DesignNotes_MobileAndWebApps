@@ -1,0 +1,40 @@
+#+STARTUP: showall
+
+#+INCLUDE: "design_menu.org"
+
+* Adobe CC
++ http://vimeo.com/123624951
++ [[http://graphism.fr/games][Games for Designers]]
++ http://www.hongkiat.com/blog/creative-css-shadows
++ http://gameprogrammingpatterns.com/index.html
++ http://www.designzzz.com/photoshop-tutorials-iphone-app-design
++ http://martiancraft.com/blog/2014/07/inspecting-yosemite-icons
++ http://webdesign.tutsplus.com/tutorials/6-beginner-safety-first-color-guidelines-for-the-web--cms-21462
++ http://aenism.com/inspiring-videos
++ http://news.ycombinator.com/item?id=7251509 - Drawing as a programmer (gameofworlds.tumblr.com)
++ http://gamemechanicexplorer.com/#platformer-1 - Game Mechanic Explorer
++ http://www.lauradhamilton.com/the-golden-ratio-and-typography
++ http://www.amazon.com/gp/aw/d/0262240459 - Rules of Play: Game Design Fundamentals
++ http://www.gamasutra.com/view/feature/3408/the_cabal_valves_design_process_.php
++ http://blog.jaredsinclair.com/post/86252723265/a-practical-introduction-to-photoshop-for-ios
++ http://news.ycombinator.com/item?id=7771783 - Convert your iOS App into a PSD file (github.com)
++ http://www.fastcodesign.com/3030923/4-myths-about-apple-design-from-an-ex-apple-designer
++ http://techcrunch.com/2014/05/24/before-the-hamburger-button-kills-you
++ http://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus
++ http://news.ycombinator.com/item?id=5964962 - Don’t go to art school (medium.com)
++ http://news.ycombinator.com/item?id=7688739 - The Illusion of Life: Disney's principles of animation
++ http://www.subtraction.com/2014/05/04/the-12-principles-of-animation
++ http://medium.com/@sureshvselvaraj/animation-principles-in-ui-design-understanding-easing-bea05243fe3
++ http://subjc.com
++ http://iosdesign.ivomynttinen.com
++ http://dribbble.com/shots/1878048-HUE-Gradients-Free-sketch-Kit
++ http://www.invisionapp.com/tethr
++ http://www.reddit.com/r/swift/comments/2tb0e3/im_looking_for_some_button_images
+
++ http://blog.fluidui.com/design-resources-for-ios8
+
+* Resources
++ http://ios7colors.com
++ http://developer.apple.com/design/tips/
++ http://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG
++ http://blog.fluidui.com/design-resources-for-ios8

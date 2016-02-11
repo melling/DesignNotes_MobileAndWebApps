@@ -1,0 +1,24 @@
+#+STARTUP: showall
+#+TITLE: ArtWork
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "design_menu.org"
+
+* Inbox
+
++ http://boingboing.net/2015/08/05/british-library-releases-over.html
++ [[https://news.ycombinator.com/item?id=9775270][365 Days of Pixel Art]]
++ [[http://makerbook.net][A hand-picked directory of the best free resources for creatives]]
++ http://www.hongkiat.com/blog/free-ebooks-designers-developers-2015
++ http://news.ycombinator.com/item?id=9407201 - Curated free-to-use space photography
++ http://www.reddit.com/r/Design/comments/30xlhg/the_most_badass_list_of_free_stock_photos
++ http://opengameart.org
+ - http://www.reddit.com/r/gamedev/comments/37nh5u/4300_handdrawn_isometric_objects_and_16_animated
++ http://compfight.com
++ http://www.vecteezy.com
++ http://www.uncorkedstudios.com/blog/export-to-android-photoshop-script
++ http://www.cutandslice.me
+
+
+Good Product manager, bad Product Manager

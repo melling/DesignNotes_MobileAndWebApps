@@ -1,0 +1,7 @@
+#+STARTUP: showall
+#+TITLE: Assets
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
++ https://news.ycombinator.com/item?id=10059882

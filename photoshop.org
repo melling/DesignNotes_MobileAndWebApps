@@ -1,0 +1,71 @@
+#+STARTUP: showall
+#+TITLE: Photoshop
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+
+#+INCLUDE: "design_menu.org"
+
+* Inbox
+
++ http://petapixel.com/2015/11/11/this-psd-reveals-what-every-photoshop-adjustment-layer-does-via-curves
++ http://medium.com/@vilcins/photoshop-extensions-for-front-end-developers-3cfb480d421
++ http://www.reddit.com/r/Design/comments/3ck2ju/photoshop_cc_cheat_sheet
++ http://github.com/bjango/Bjango-Actions
++ http://www.setupablogtoday.com/adobe-creative-cloud-cheat-sheet
++ http://www.youtube.com/watch?v=S3IEzVZTwvE
++ http://www.hongkiat.com/blog/editable-resume-template
++ http://webdesign.tutsplus.com/tutorials/design-an-app-landing-page-in-photoshop--cms-23716
++ http://www.ohhie.com/blog/2015/6/17/workflows-hdr-using-lightroom-and-photoshop
+
+* Plugins 
++ http://blog.yargies.com/post/126997841594/useful-photoshop-plugins-and-templates
+
+* ImageMagick
+
++ http://unop.uk/dev/make-animated-gifs-with-imagemagick
+
+* Photoshop
+
+* Classes
++ http://design.tutsplus.com/series/isometric-pixel-art--cms-732
+
+* Setup
+
+* Tutorials
++ http://design.tutsplus.com/articles/quick-tip-painting-with-layer-blend-modes-in-adobe-photoshop--cms-23388
++ http://design.tutsplus.com/articles/improve-your-artwork-by-learning-to-see-light-and-shadow--cms-20282
++ http://news.ycombinator.com/item?id=7613589 - Stock Photos That Don’t Suck (medium.com)
++ http://davidmckinney.com/blog/2013/12/31/designing-iphone-apps-how-to-setup-photoshop
++ http://sixrevisions.com/web-development/advanced-image-optimization
+ - http://news.ycombinator.com/item?id=6958729
++ http://photoblogstop.com/photoshop/photoshop-blend-modes-explained - Photoshop Blend Modes Explained
++ http://design.tutsplus.com/tutorials/how-to-create-an-animated-pixel-art-sprite-in-adobe-photoshop--cms-20428
++ http://design.tutsplus.com/tutorials/geometric-design-working-with-6-and-12--cms-22872
++ http://design.tutsplus.com/tutorials/how-to-create-stylish-flat-space-icons-in-adobe-photoshop--cms-22984
++ http://bjango.com/articles/blendif/
++ http://photoshopsecrets.tumblr.com/post/101635464536/smart-object-stack-mode-is-a-good-way-to-reduce
++ http://medium.com/by-heist/dismantling-the-photoshop-design-process-6d7b6891970a
++ http://www.yesimadesigner.com/changing-colors-in-photoshop/
++ http://design.tutsplus.com/tutorials/how-to-create-an-isometric-pixel-art-neighborhood-block-in-adobe-photoshop--cms-22792
++ http://design.tutsplus.com/articles/design-course-getting-started-with-smart-objects--cms-22892
++ http://design.tutsplus.com/tutorials/how-to-create-a-brushed-metal-text-effect-in-adobe-photoshop--cms-22687
++ http://design.tutsplus.com/tutorials/how-to-create-an-icon-set-using-adobe-photoshop--cms-22761
++ http://design.tutsplus.com/tutorials/how-to-create-a-to-do-list-app-icon-in-adobe-illustrator--cms-22679
++ http://design.tutsplus.com/tutorials/geometric-design-working-with-4-and-8--cms-22731
++ http://design.tutsplus.com/tutorials/how-to-create-a-vintage-seasonal-greeting-card-in-adobe-illustrator--cms-22691
++ http://design.tutsplus.com/tutorials/how-to-create-a-vivid-ombre-text-effect-in-adobe-photoshop--cms-22648
++ http://design.tutsplus.com/tutorials/how-to-create-a-bat-icon-in-adobe-illustrator-using-just-simple-ellipse-shapes--cms-22399
++ http://design.tutsplus.com/tutorials/how-to-create-autumn-leaves-berries-and-chestnut-icons-in-adobe-illustrator--cms-22567
++ http://design.tutsplus.com/articles/10-essential-tips-tools-all-adobe-illustrator-beginners-should-learn--cms-23163
++ http://design.tutsplus.com/tutorials/how-to-create-a-walking-kitten-animation-in-adobe-photoshop--cms-23046
++ http://design.tutsplus.com/tutorials/create-an-isometric-pixel-art-apartment-building-in-adobe-photoshop--cms-23006
++ http://androidarts.com/pixtut/pixelart.htm
++ http://design.tutsplus.com/articles/celebrate-adobe-photoshops-25th-birthday-with-25-inspiring-resources-on-tuts--cms-23441
++ http://design.tutsplus.com/courses/mastering-the-wacom-tablet-in-adobe-photoshop
++ http://design.tutsplus.com/tutorials/create-an-isometric-pixel-art-office-building-in-adobe-photoshop--cms-23357
+
+* Assets
+
+http://news.ycombinator.com/item?id=7890901 - Open-source game development assets (opengameart.org)
