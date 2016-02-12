@@ -28,6 +28,9 @@
 + http://design.tutsplus.com/tutorials/how-to-create-a-glamorous-cinema-poster-in-adobe-illustrator--cms-22956
 + http://sewheidi.com/where-to-save-brushes-other-custom-libraries-in-illustrator
 
+* Color
++ http://design.tutsplus.com/tutorials/illustrator-in-60-seconds-how-to-create-and-export-color-swatches--cms-25749
+
 
 * Bezier Curves
 
