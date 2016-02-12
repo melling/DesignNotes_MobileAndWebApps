@@ -9,6 +9,7 @@
 * Inbox
 + http://www.handprint.com/HP/WCL/tech13.html
 + http://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359
++ http://www.artistsnetwork.com/subject/other-subject/understanding-value-and-tone-for-better-painting
 
 * Misc
 + sRGB is a certain colorspace.  Gamma curve is 2.2 except at the bottom where it's "linearized out". - Handmade Hero 242 @ 1:09
