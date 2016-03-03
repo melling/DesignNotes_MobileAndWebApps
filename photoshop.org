@@ -69,3 +69,7 @@
 * Assets
 
 http://news.ycombinator.com/item?id=7890901 - Open-source game development assets (opengameart.org)
+
+* File Format 
++ https://posts.postlight.com/fun-photoshop-file-format-facts-edbc1374c715
+
