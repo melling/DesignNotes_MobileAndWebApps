@@ -8,6 +8,16 @@
 + http://webdesign.tutsplus.com/tutorials/designing-an-ios-fitness-application-with-apple-watch-compatibility--cms-23613
 
 * Keyboard Shortcuts
+
+|Key|Comments
+|---
+| L | |
+| O | Oval |
+| T | |
+| r | Rect |
+| u | rounded rect|
+
+|
 ** References
 + https://designcode.io/sketch-keyboard
 
@@ -33,6 +43,9 @@
 + http://webdesign.tutsplus.com/tutorials/sketch-for-beginners-design-a-login-form-interface--cms-21534
 + http://www.drawar.com/sketch/tips
 + http://www.designskilz.com/learn-sketch/
+
+* Typography
++ https://medium.com/@sketchapp/typesetting-in-sketch-dc870fc334fc
 
 * Plugins
 + http://sketchtoolbox.com
