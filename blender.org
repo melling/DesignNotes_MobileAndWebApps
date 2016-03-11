@@ -1,0 +1,14 @@
+#+STARTUP: showall
+#+TITLE: Blender
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "dev_menu.org"
+
+* INBOX
+
++ http://www.reddit.com/r/gamedev/comments/3ncne7/blender_for_beginners_texture_shading_low_poly
++ http://www.youtube.com/watch?v=2pGGDxVF-pk&feature=youtu.be - 
++ http://www.reddit.com/r/gamedev/comments/3olyxn/intro_to_blender_all_mini_tutorials_available
++ [[http://radar.oreilly.com/2015/09/a-developers-introduction-to-3d-animation-and-blender.html][A developer’s introduction to 3D animation and Blender]]
+ - https://news.ycombinator.com/item?id=10405165 - HN
