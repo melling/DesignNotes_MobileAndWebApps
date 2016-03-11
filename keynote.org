@@ -1,0 +1,11 @@
+#+STARTUP: showall
+#+TITLE: Apple's Keynote
+#+AUTHOR: http://h4labs.com, melling@h4labs.com
+#+EMAIL: melling@h4labs.com
+
+* Inbox
+
++ http://www.lindadong.com/blog/keynotemotiongraphic
++ http://indiedevstories.com/2012/04/24/app-prototyping-with-keynote
++ http://blog.amirkhella.com/2010/06/16/how-to-prototype-interactive-ipad-applications-in-30-minutes-or-less-using-apple-keynote
++ http://webdesign.tutsplus.com/tutorials/how-to-demo-an-ios-prototype-in-keynote--cms-22279
