@@ -55,3 +55,4 @@
 + http://github.com/jodyheavener/Swatches
 + http://hackingui.com/sketch-design/a-year-using-sketch
 + https://github.com/romashamin/sort-me-sketch
++ [[https://mathieudutour.github.io/git-sketch-plugin/][git-sketch-plugin]]
