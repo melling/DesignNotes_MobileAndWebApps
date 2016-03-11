@@ -1,0 +1,34 @@
+#+STARTUP: showall
+#+TITLE: ImageMagick
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+* Inbox
++ http://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick
++ http://www.imagemagick.org/Usage/annotating
++ [[http://news.ycombinator.com/item?id=10309441][Using imagemagick, awk and kmeans to find dominant colors in images]]
+
+#+BEGIN_EXAMPLE 
+img@2x.png: img.ai
+      convert img.ai img@2x.png
+
+  img.png: img@2x.png
+      convert img@2x.png -resize '50%' img.png
+
+http://coding.pressbin.com/133/PHP-Fitting-text-to-box-with-ImageMagick/
+#+END_EXAMPLE 
+
+#+BEGIN_EXAMPLE 
+# identify foo.png
+
+# 
+convert -size 500x500 xc:transparent -font Courier-bold -pointsize 15 -fill SlateBlue1 -draw "text 230,375 'h4labs.com'" lnl.png
+
+composite -dissolve 50% -quality 100 lnl.png king.png output.png
+
+---
+ convert king.png -resize 120x120  \
+  -font Courier-bold -pointsize 15 -fill SlateBlue1 \
+          -gravity center     -annotate 0 '`h4labs' \
+          gravity_text.png
+#+END_EXAMPLE 
