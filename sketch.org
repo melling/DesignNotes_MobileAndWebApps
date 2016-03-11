@@ -21,6 +21,9 @@
 ** References
 + https://designcode.io/sketch-keyboard
 
+* Inbox
++ http://peterwitham.com/development-notes/more-sketch-resources
+
 * Tutorials
 
 + http://www.sketchcasts.net
