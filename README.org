@@ -16,3 +16,21 @@
  - http://news.ycombinator.com/item?id=9281690
 + http://www.reddit.com/r/graphic_design/comments/34q8q2/what_are_your_favourite_design_tutorial
 + http://threads.tradesy.com/designing-by-hand-in-the-digital-age-ad3e1ed90ce9#.u8b9zrxci - See list of tools
++ http://rushone2010.github.io/DesignBox/
++ http://medium.com/@CoriMcElwain/becoming-a-designer-in-tech-cc3a71a47f81
+ - http://hackdesign.org/lessons
++ http://www.csszengarden.com
++ http://blog.loomio.org/2015/07/07/design-for-developers
++ http://blog.invisionapp.com/reading-list-for-designers
++ http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141
++ http://www.reddit.com/r/learnart/comments/3ckcdv/i_put_together_a_list_of_playlists_on_youtube
++ [ ] http://design.tutsplus.com/tutorials/what-time-is-it-its-create-icons-in-adobe-illustrator-time--cms-23995
++ [[https://medium.com/i-m-h-o/dont-go-to-art-school-138c5efd45e9][Don't go to Art School ]]
++ http://creativemarket.com/blog/2015/06/17/how-to-become-a-graphic-designer-without-going-to-school
+ - http://www.quora.com/How-do-you-get-a-job-as-a-designer-without-going-to-design-school
+ - http://design.tutsplus.com/articles/50-totally-free-lessons-in-graphic-design-theory--psd-2916
+ - http://www.lynda.com/Illustrator-tutorials/Drawing-Vector-Graphics-Hand-Lettering/196577-2.html
+ - Books
+  + Made to Stick
+*** Inspiration 
++ http://thenuschool.com/inspirational-videos-for-designers-the-full-collection
