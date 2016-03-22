@@ -7,10 +7,12 @@
 #+INCLUDE: "design_menu.org"
 
 * Inbox
-+ http://www.handprint.com/HP/WCL/tech13.html
-+ http://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359
-+ http://www.artistsnetwork.com/subject/other-subject/understanding-value-and-tone-for-better-painting
++ [[http://www.handprint.com/HP/WCL/tech13.html][color harmony & color design]]
++ [[http://www.artistsnetwork.com/subject/other-subject/understanding-value-and-tone-for-better-painting][Understanding Value and Tone for Better Painting]]
 + [[http://publicdomainreview.org/collections/color-analysis-charts-by-emily-noyes-vanderpoel-1902/][Colour Analysis Charts by Emily Noyes Vanderpoel (1902)]]
+
+* Books
++ [[http://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359][Interaction of Color: 50th Anniversary Edition]]
 
 * Misc
 + sRGB is a certain colorspace.  Gamma curve is 2.2 except at the bottom where it's "linearized out". - Handmade Hero 242 @ 1:09
