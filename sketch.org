@@ -47,6 +47,9 @@
 + http://www.drawar.com/sketch/tips
 + http://www.designskilz.com/learn-sketch/
 
+* UI Packs
++ [[http://mercury.io/blog/free-ios-9-3-iphone-ui-kit-for-illustrator-and-sketch][Free iOS 9.3 iPhone UI Kit for Illustrator and Sketch]]
+
 * Typography
 + https://medium.com/@sketchapp/typesetting-in-sketch-dc870fc334fc
 
@@ -56,3 +59,4 @@
 + http://hackingui.com/sketch-design/a-year-using-sketch
 + https://github.com/romashamin/sort-me-sketch
 + [[https://mathieudutour.github.io/git-sketch-plugin/][git-sketch-plugin]]
++ [[https://github.com/LaloMrtnz/ShareableColorPalette][ShareableColorPalette - A Sketch plugin that creates a beautiful color palette with your "Document Colors Palette's" HEX and rgba values]]
