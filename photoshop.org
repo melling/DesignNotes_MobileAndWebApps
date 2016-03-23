@@ -22,6 +22,9 @@
 * Plugins 
 + http://blog.yargies.com/post/126997841594/useful-photoshop-plugins-and-templates
 
+* Actions
++ http://www.hongkiat.com/blog/photoshop-actions-for-designers/
+
 * ImageMagick
 
 + http://unop.uk/dev/make-animated-gifs-with-imagemagick
@@ -72,4 +75,3 @@ http://news.ycombinator.com/item?id=7890901 - Open-source game development asset
 
 * File Format 
 + https://posts.postlight.com/fun-photoshop-file-format-facts-edbc1374c715
-
