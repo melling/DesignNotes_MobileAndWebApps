@@ -7,6 +7,8 @@
 #+INCLUDE: "design_menu.org"
 
 * Inbox
+
++ [[http://www.huevaluechroma.com/index.php][The Dimensions of Colour]]
 + http://www.handprint.com/LS/CVS/color.html
 + [[http://www.handprint.com/HP/WCL/tech13.html][color harmony & color design]]
 + [[http://www.artistsnetwork.com/subject/other-subject/understanding-value-and-tone-for-better-painting][Understanding Value and Tone for Better Painting]]
