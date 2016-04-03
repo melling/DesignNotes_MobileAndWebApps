@@ -28,6 +28,7 @@
 
 + http://www.sketchcasts.net
 + https://ui8.net
++ [[https://medium.com/sketch-app-sources/creating-patterns-in-sketch-12cc612ef09a][Creating Patterns In Sketch]]
 + http://bohemiancoding.com/sketch/support/documentation/08-styling/4-blur.html
 + http://medium.com/design-philosophies/switching-to-sketch-556fcb5e46ad
 + http://www.thinkandbuild.it/writing-a-sketch-plugin-to-easily-generate-ios-assets/
