@@ -18,6 +18,7 @@
  - https://news.ycombinator.com/item?id=11432644
 + [[http://vis4.net/blog/posts/avoid-equidistant-hsv-colors/][How To Avoid Equidistant HSV Colors]]
  - HCL is a cylindrical transformation of CIE L*a*b*
++ [[http://research.kumpf.cc/MunsellForDesigners/][Munsell for Designers]]
 
 * Books
 + [[http://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359][Interaction of Color: 50th Anniversary Edition]]
