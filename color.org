@@ -15,6 +15,7 @@
 + [[http://publicdomainreview.org/collections/color-analysis-charts-by-emily-noyes-vanderpoel-1902/][Colour Analysis Charts by Emily Noyes Vanderpoel (1902)]]
  - https://news.ycombinator.com/item?id=11347361
 + [[https://www.smashingmagazine.com/2016/04/web-developer-guide-color/][A Simple Web Developer’s Guide To Color]]
+ - https://news.ycombinator.com/item?id=11432644
 + [[http://vis4.net/blog/posts/avoid-equidistant-hsv-colors/][How To Avoid Equidistant HSV Colors]]
  - HCL is a cylindrical transformation of CIE L*a*b*
 
