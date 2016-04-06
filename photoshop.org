@@ -19,6 +19,10 @@
 + http://webdesign.tutsplus.com/tutorials/design-an-app-landing-page-in-photoshop--cms-23716
 + http://www.ohhie.com/blog/2015/6/17/workflows-hdr-using-lightroom-and-photoshop
 
+* Color
++ Cick and hold on image.  Color picker appears.  Drag anywhere on screen.
++ Option key select color picker tool
+
 * Plugins 
 + http://blog.yargies.com/post/126997841594/useful-photoshop-plugins-and-templates
 
