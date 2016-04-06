@@ -20,6 +20,9 @@
  - HCL is a cylindrical transformation of CIE L*a*b*
 + [[http://research.kumpf.cc/MunsellForDesigners/][Munsell for Designers]]
 
+* Creating Color Schemes
++ http://methodandcraft.com/videos/creating-harmonious-color-schemes
+
 * HSL
 + [[http://thenewcode.com/61/An-Easy-Guide-To-HSL-Color-In-CSS3][An Easy Guide To HSL Color]]
 
