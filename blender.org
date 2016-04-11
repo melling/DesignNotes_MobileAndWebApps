@@ -12,3 +12,4 @@
 + http://www.reddit.com/r/gamedev/comments/3olyxn/intro_to_blender_all_mini_tutorials_available
 + [[http://radar.oreilly.com/2015/09/a-developers-introduction-to-3d-animation-and-blender.html][A developer’s introduction to 3D animation and Blender]]
  - https://news.ycombinator.com/item?id=10405165 - HN
++ https://www.reddit.com/r/gamedev/comments/4e5oju/blender_tutorial_from_the_very_basics_for_those/
