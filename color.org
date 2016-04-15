@@ -20,6 +20,9 @@
  - HCL is a cylindrical transformation of CIE L*a*b* - [[https://en.wikipedia.org/wiki/Lab_color_space][Lab color space]]
  - https://news.ycombinator.com/item?id=11437794
 + [[http://research.kumpf.cc/MunsellForDesigners/][Munsell for Designers]]
++ [[http://youtu.be/0ZZgiSUyPDY][How filmmakers use color to manipulate our emotions]] 
+ - Lots of Blue and Orange
+ - O'Brother Where Art Thou - Used sepia filter to give a Depression Era look
 
 * Creating Color Schemes
 + http://methodandcraft.com/videos/creating-harmonious-color-schemes
