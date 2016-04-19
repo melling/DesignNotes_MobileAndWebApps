@@ -10,6 +10,7 @@
 
 + [[http://www.huevaluechroma.com/index.php][The Dimensions of Colour]]
 + http://www.handprint.com/LS/CVS/color.html
++ [[http://design.tutsplus.com/articles/advanced-color-theory-what-is-color-management-and-should-designers-know-about-it--cms-26307][Advanced Color Theory: What Is Color Management, and Should Designers Know About It?]]
 + [[http://www.handprint.com/HP/WCL/tech13.html][color harmony & color design]]
 + [[http://www.artistsnetwork.com/subject/other-subject/understanding-value-and-tone-for-better-painting][Understanding Value and Tone for Better Painting]]
 + [[http://publicdomainreview.org/collections/color-analysis-charts-by-emily-noyes-vanderpoel-1902/][Colour Analysis Charts by Emily Noyes Vanderpoel (1902)]]
