@@ -28,6 +28,7 @@
 
 * Actions
 + http://www.hongkiat.com/blog/photoshop-actions-for-designers/
++ http://photography.tutsplus.com/tutorials/getting-started-with-photoshop-actions--cms-26375
 
 * ImageMagick
 
