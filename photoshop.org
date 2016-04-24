@@ -9,6 +9,8 @@
 
 * Inbox
 
++ [[https://medium.com/google-design/salt-pepper-the-art-of-illustrating-texture-c962dc67cc35][
+Salt & Pepper — The Art of Illustrating Texture]]
 + http://petapixel.com/2015/11/11/this-psd-reveals-what-every-photoshop-adjustment-layer-does-via-curves
 + http://medium.com/@vilcins/photoshop-extensions-for-front-end-developers-3cfb480d421
 + http://www.reddit.com/r/Design/comments/3ck2ju/photoshop_cc_cheat_sheet
