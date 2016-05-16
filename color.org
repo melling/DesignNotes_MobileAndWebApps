@@ -87,7 +87,7 @@ earthy, warm landscape comes forward.
 ROYGBIV - Primary colors or hue - rainbow hues
   Red, Orange, Yellow, Green, Blue, Indigo , Violet
 
-Tint - add white to tint
+Tint - add white to hue
 Shade - add black to hue
 Saturation - vividness of hue. From dull to pure
 
