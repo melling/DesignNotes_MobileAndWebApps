@@ -87,7 +87,8 @@ earthy, warm landscape comes forward.
 ROYGBIV - Primary colors or hue - rainbow hues
   Red, Orange, Yellow, Green, Blue, Indigo , Violet
 
-+ http://webdesign.tutsplus.com/tutorials/color-in-60-seconds-tints-tones-and-shades--cms-26538
++ [[http://webdesign.tutsplus.com/tutorials/color-in-60-seconds-tints-tones-and-shades--cms-26538][Color in 60 Seconds: Tints, Tones and Shades]]
+
 |Tint | add white to hue|
 |Shade | add black to hue|
 |Tone | add both black and white|
