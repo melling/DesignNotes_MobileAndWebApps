@@ -87,9 +87,11 @@ earthy, warm landscape comes forward.
 ROYGBIV - Primary colors or hue - rainbow hues
   Red, Orange, Yellow, Green, Blue, Indigo , Violet
 
-Tint - add white to hue
-Shade - add black to hue
-Saturation - vividness of hue. From dull to pure
++ http://webdesign.tutsplus.com/tutorials/color-in-60-seconds-tints-tones-and-shades--cms-26538
+|Tint | add white to hue|
+|Shade | add black to hue|
+|Tone | add both black and white|
+|Saturation | vividness of hue. From dull to pure|
 
 Color "Rules"
 - Three colors are all you need in design
