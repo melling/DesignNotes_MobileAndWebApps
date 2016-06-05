@@ -12,8 +12,7 @@
 + [[http://design.tutsplus.com/series/guides-to-illustrator-tools--vector-4892][Guides to Illustrator Tools]]
 + [[http://webdesignerwall.com/tutorials/adobe-illustrator-shortcuts][http://webdesignerwall.com/tutorials/adobe-illustrator-shortcuts]]
 + [[http://design.tutsplus.com/articles/try-our-new-coffee-break-course-on-the-shaper-tool-in-adobe-illustrator--cms-26122][Try Our New Coffee Break Course on the Shaper Tool in Adobe Illustrator]]
-+ [[http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141][Illustrator’s Pen Tool: The Comprehensive Guide]]
-+
++ ---
 + http://www.hongkiat.com/blog/svg-tools
 + [[http://design.tutsplus.com/tutorials/understanding-adobe-illustrators-grid-system--cms-23623][Understanding Adobe Illustrator's Grid System]]
 + [[http://design.tutsplus.com/tutorials/find-the-pen-tool-difficult-try-this-adobe-illustrator-cc-workaround--cms-24365][Find the Pen Tool Difficult? Try This Adobe Illustrator CC Workaround!]]
