@@ -23,6 +23,7 @@
 
 * Inbox
 + http://peterwitham.com/development-notes/more-sketch-resources
++ https://medium.com/sketch-app-sources/sketch-blending-modes-101-f8a92c4c4c7d
 
 * Tutorials
 
