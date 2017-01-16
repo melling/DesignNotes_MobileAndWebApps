@@ -4,6 +4,7 @@
 #+EMAIL: melling@h4labs.com
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
 
++ https://www.reddit.com/r/photography/comments/5o350c/since_that_suspicious_harvard_course_got_so_much/
 + http://www.camerainstructor.com
 + http://www.polarr.co/guide
 + http://lifehacker.com/all-the-settings-on-your-cameras-mode-dial-explained-i-1707687747
