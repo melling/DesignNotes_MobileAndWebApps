@@ -4,6 +4,8 @@
 #+EMAIL: melling@h4labs.com
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
 
+* Inbox
++ [[https://brevite.co/how-to-use-tone-curves/][4 Steps to Improve Your Photos (How To Use Tone Curves)]]
 + https://www.reddit.com/r/photography/comments/5o350c/since_that_suspicious_harvard_course_got_so_much/
 + http://www.camerainstructor.com
 + http://www.polarr.co/guide
